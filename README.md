@@ -1,8 +1,8 @@
 ## Olá Eu sou o Gustavo Alves 
 
-- 🧑‍💻Futuro Programador 
-- 📚 Atualmente estudando Java, CSS E HTML 
-- 📧Contato: gustavo.alves.silva2002@gmail.com
+- 🧑‍💻Future programmer 
+- 📚 Currently studying Java, CSS and HTML
+- 📧Contact:: gustavo.alves.silva2002@gmail.com
 
 <div align="center">
   <a href="https://github.com/Gustav0alves">
