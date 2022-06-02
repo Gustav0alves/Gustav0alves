@@ -1,4 +1,4 @@
-## Olá Eu sou o Gustavo Alves 
+## Hello I'm Gustavo Alves 
 
 - 🧑‍💻Future programmer 
 - 📚 Currently studying Java, CSS and HTML
