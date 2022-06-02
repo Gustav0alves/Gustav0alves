@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav0Alves&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-## Technologies I use in my daily life
+## Technologies that I use in my daily life
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
